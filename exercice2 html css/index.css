@@ -1,0 +1,171 @@
+@import url('https://fonts.googleapis.com/css2?family=Courgette&family=Raleway:wght@200&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body .PremierP {
+    background-image: url(./assets/img/header_bg.jpg)
+}
+
+nav {
+    margin: 0%;
+    display: flex;
+}
+
+nav section {
+    margin-top: 3%;
+}
+
+nav section .menu {
+    display: flex;
+}
+
+nav section .menu a {
+    color: white;
+    padding: 0 25%;
+    font-family: Helvetica, Arial, sans-serif, 'Raleway';
+    text-decoration: none;
+}
+
+.logo {
+    width: 350px;
+}
+
+#free {
+    position: relative;
+    margin-left: -10px;
+}
+
+nav section .logo {
+    text-align: center;
+}
+
+.logo {
+    margin-right: 50%;
+}
+
+section.header {
+    margin: 0 15%;
+    margin-top: 3%;
+}
+
+nav section .lien a {
+    color: #3d9f96;
+}
+
+.link {
+    padding: 0 15% 0 0;
+    margin-left: 80px;
+    width: 240%;
+}
+
+section .text1 {
+    color: #FFFFFF;
+    margin-top: 5%;
+    text-align: center;
+    font-family: Raleway, Arial, sans-serif
+}
+
+.text1 h1 {
+    size: small;
+    font-family: Raleway, Arial, sans-serif
+}
+
+h2 {
+    color: #3d9f96;
+    margin-top: 3%;
+    font-family: Raleway, Arial, sans-serif
+}
+
+.text1 p {
+    margin-top: 3%;
+    font-family: Raleway, Arial, sans-serif
+}
+
+button {
+    background-color: #3d9f96;
+    margin-top: 3%;
+    padding: 2% 7%;
+    color: white;
+    border-color: #3d9f96;
+    border-radius: 30px;
+}
+
+section .pc1 {
+    display: block;
+    margin-top: 7%;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+div .icone {
+    text-align: center;
+    margin-top: 3%;
+}
+
+div .icone img {
+    margin: 2%;
+}
+
+div .text2 {
+    text-align: center;
+    font-family: Raleway, Arial, sans-serif
+}
+
+.text2 h1 {
+    margin-top: 10%;
+    font-family: Raleway, Arial, sans-serif
+}
+
+.text2 p {
+    margin-top: 3%;
+    font-family: Raleway, Arial, sans-serif
+}
+
+div .LesTrois {
+    display: flex;
+    margin: 5% 20%;
+    background-image: url(./assets/img/map_bg.png);
+}
+
+div .box2 {
+    text-align: center;
+}
+
+div .titre {
+    display: flex;
+}
+
+h5 {
+    margin: 10%;
+}
+
+.transition1 {
+    color: white;
+    text-align: center;
+    font-size: large;
+    background-image: url(./assets/img/seperator1-.jpg);
+    padding: 5%;
+}
+
+.Global section {
+    margin: 5% 20%;
+}
+
+.cap ul {
+    display: flex;
+    list-style-type: none;
+    justify-content: space-between;
+}
+
+.Lesdeux {
+    display: flex;
+    text-align: center;
+}
+
+.colonnes3 {
+    display: flex;
+    background-color: #ababab;
+}
